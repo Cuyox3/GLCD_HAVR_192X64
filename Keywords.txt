@@ -1,0 +1,4 @@
+GLCD_HAVR 	KEYWORD1
+begin_ini	KEYWORD2
+glcd_init	KEYWORD2 
+glcd_pixel	KEYWORD2
